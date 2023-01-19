@@ -3,6 +3,7 @@
 
 <h2 align="center"> A Dataset for Hate Speech Detection in Hausa, Igbo and Nigerian English </h2>  
 
+Please, request this datase by email: francielleavargas@usp.br
 
 <h2 align="left"> FUNDING </h2>
 
