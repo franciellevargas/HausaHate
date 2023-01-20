@@ -7,3 +7,10 @@
 
 Please, request this dataset by email: francielleavargas@usp.br
 
+
+
+<h2 align="left"> FUNDING </h2>
+
+![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/main/.github/sinch.png?raw=true)
+![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/e5ccb9cd6b43c26edacb2c4abd32fd75f8a574a2/.github/logo_novo_english.gif)
+
