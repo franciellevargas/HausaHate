@@ -1,11 +1,7 @@
-![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/5611312b1573cb1e5689fae64ab4ede88502ed78/.github/Logo-DCCUFMG.jpg)
-![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/7e5fe34063f89296b17f8c255b89360dfef75761/.github/icmc.png)     ![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/1c2ecbc54df5719102d068370b3eca9dacea8334/.github/locus_media.png)
-
-
 <h2 align="center"> A Dataset of Hateful Comments for the West African languages</h2>  
 
+Hate speech is surely a relevant research and social problem. Nevertheless, there is a lack of research on African Indigenous languages. To fill this important gap, we introduce a new multilingual dataset of hateful, racist, and terrorist comments for the West African Indigenous Language, which was extracted from Facebook pages. The TEAR dataset is composed of 1,365 comments annotated with two different layers. The first layer is a binary class (hateful and non-hateful), and the second layer consists of fine-grained hate speech classes (racist, terrorist, and hateful). Although our dataset presents comments in twelve different languages, most of them were written in Hausa, Igbo, and Nigerian-English languages. We implemented a set of robust experiments on our dataset and provided baselines for hate speech detection in Hausa, Igbo, and Nigerian English, which are the most representative in the data. We further show the results of a model that embodies the translated dataset. Lastly, we provide a detailed analysis of data demonstrating the reliability of the annotation and models.
 
-Please, request this dataset by email: francielleavargas@usp.br
 
 
 
