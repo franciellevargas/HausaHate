@@ -1,4 +1,4 @@
-<h2 align="center"> Abusive Language Detection Dataset in Hausa, Igbo and Nigerian English languages</h2>  
+<h2 align="center"> TEAR Abusive Language Detection Dataset in Hausa, Igbo and Nigerian English</h2>  
 
 
 
