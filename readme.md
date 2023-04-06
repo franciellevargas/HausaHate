@@ -1,4 +1,4 @@
-<h2 align="center"> TEAR - Abusive Language Detection Dataset in West African Indigenous Languages</h2>  
+<h2 align="center"> TEAR - Hate Speech Dataset in Hausa and Igbo African Indigenous Languages</h2>  
 
 
 
