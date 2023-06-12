@@ -1,4 +1,4 @@
-<h2 align="center"> TEAR - A Hate Speech Dataset for Hausa and Igbo African Indigenous Languages</h2>  
+<h2 align="center"> TEAR - TEAR: A Hate Speech Dataset of Hausa Facebook Comments</h2>  
 
 
 
