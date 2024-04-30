@@ -32,6 +32,11 @@
 </div>
 </br>
 
+<h2 align="left"> ETHICS STATEMENT </h2>
+<p align="justify">
+we followed the steps to anonymize the data describe in Section 4.2.3 in the paper, as it is standard for papers with this kind of data. There are public corpus of anonymized Facebook comments available. However, since the last change on the Meta platform terms of service was in 2020, we only decided to disclose the ids of the comments (only when requested) in order to allow the reproducibility, while also compelling researchers to pass through Meta’s authorization procedures to access the full data. Please, contact francielleavargas@usp.br to request the corpus with ids and links of the comments. 
+</p>
+
 <h2 align="left"> CITING </h2>
 <p align="justify">
 Vargas, F., Guimarães, S., Muhammad, H. S., Alves, D., Abdulmumin, I., Ahmad, I. S., Mohamed, D., Pardo, T.A.S., Benevenuto, F. (2024). <b>HausaHate: An Expert Annotated Corpus for Hausa Hate Speech Detection</b>. Proceedings of the 8th Workshop on Online Abuse and Harms (NAACL 2024). pp.1--7. Mexico City, Mexico. Association for Computational Linguistics (ACL). 
