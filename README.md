@@ -3,22 +3,31 @@
 <h2 align="center"> HausaHate: A Benchmarch Dataset for Hausa Hate Speech Detection </h2>  
 
 </br>
-<p align="justify">Automated fact-checking and news credibility verification at scale require accurate prediction of news factuality and media bias. Here, we introduce a large sentence-level dataset, titled FactNews, composed of 6,191 sentences expertly annotated according to factuality and media bias definitions proposed by AllSides. We used the FactNews to assess the overall reliability of news sources by formulating two text classification problems for predicting sentence-level factuality of news reporting and bias of media outlets. Our experiments demonstrate that biased sentences present a higher number of words compared to factual sentences, besides having a predominance of emotions. Hence, the fine-grained analysis of subjectivity and impartiality of news articles showed promising results for predicting the reliability of the entire media outlet. Finally, due to the severity of fake news and political polarization in Brazil, and the lack of research for Portuguese, both dataset and baseline were proposed for Brazilian Portuguese. The following table describes in detail the FactNews labels, documents, and stories: </p>
+<p align="justify">In African countries, the hate speech phenomenon is especially serious due to a historical problem regarding ethnic conflicts. Specifically, the Western region still lacks more research on hate speech focusing on its indigenous languages. Moreover, as most of the existing hate speech data resources are developed for the English language, the research and development of hate speech technologies for African indigenous languages are less developed. To fill this relevant gap, we introduce the first expert annotated corpus of Facebook comments for Hausa hate speech detection. The corpus titled HausaHate comprises 2,000 comments extracted from Western African Facebook pages and manually annotated by three Hausa native speakers, who are also NLP experts. Our corpus was annotated using two different layers. We first labeled each comment according to a binary classification: offensive versus non-offensive. Then, offensive comments were also labeled according to hate speech targets: race, gender and none. Lastly, a baseline model using fine-tuned LLM for Hausa hate speech detection is presented, highlighting the challenges of hate speech detection tasks for indigenous languages in Africa, as well as future advances. The following table describes in detail the HausaHate categories and documents: </p>
 </br>
 
 </br>
 <div align="center">
 
-| Offensive| Non-Offensive | Total  | 
+| Offensive| Non-Offensive | Total Comments  | 
 | :---     | :---:        |   ---:  |               
 | 678      | 1,322        | 2,000  |
 
 </div>
 </br>
 
+<div align="center">
+
+| Race | Gender | Non-Target | Total | 
+| :--- | :---:  |   ---:     |  ---: |               
+| 391  | 65     | 222        | 678   |
+
+</div>
+</br>
+
 <h2 align="left"> CITING </h2>
 <p align="justify">
-Vargas, F., Guimarães, S., Muhammad, H. S., Alves, D., Abdulmumin, I., Ahmad, I. S., Mohamed, D., Pardo, T.A.S., Benevenuto, F. (2024). <b>HausaHate: An Expert Annotated Corpus for Hausa Hate Speech Detection</b>. Proceedings of the 8th Workshop on Online Abuse and Harms (NAACL 2024). pp.1--7. VMexico City, Mexico. Association for Computational Linguistics (ACL). 
+Vargas, F., Guimarães, S., Muhammad, H. S., Alves, D., Abdulmumin, I., Ahmad, I. S., Mohamed, D., Pardo, T.A.S., Benevenuto, F. (2024). <b>HausaHate: An Expert Annotated Corpus for Hausa Hate Speech Detection</b>. Proceedings of the 8th Workshop on Online Abuse and Harms (NAACL 2024). pp.1--7. Mexico City, Mexico. Association for Computational Linguistics (ACL). 
 </p>
 
 <br>
