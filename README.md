@@ -1,5 +1,7 @@
 [![DOI](https://zenodo.org/badge/396994570.svg)](https://zenodo.org/doi/10.5281/zenodo.7787172)
 
+![SSC-logo-300x171](https://github.com/franciellevargas/franciellevargas.github.io/blob/78f2b1c9b38d136fdf2027da1642e305ce611385/img/hausa-sig.png)
+
 <h2 align="center"> HausaHate: A Benchmarch Dataset for Hausa Hate Speech Detection </h2>  
 
 </br>
