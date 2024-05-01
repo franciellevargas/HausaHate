@@ -34,7 +34,7 @@
 
 <h2 align="left"> ETHICS STATEMENT </h2>
 <p align="justify">
-We followed the steps to anonymize the data describe in Section 4.2.3 in the paper, as it is standard for papers with this kind of data. There are public corpus of anonymized Facebook comments available. However, since the last change on the Meta platform terms of service was in 2020, we only decided to disclose the ids of the comments (only when requested) in order to allow the reproducibility, while also compelling researchers to pass through Meta’s authorization procedures to access the full data. In order to keep the data annonimization, we provide the dataset without ids and links of the comments. Please, contact <b>francielleavargas@usp.br</b> to request the corpus with ids and links of the comments. 
+We followed the steps to anonymize the data describe in Section 4.2.3 in the paper, as it is standard for papers with this kind of data. There are public corpus of anonymized Facebook comments available. However, since the last change on the Meta platform terms of service was in 2020, we only decided to disclose the ids of the comments (only when requested) in order to allow the reproducibility, while also compelling researchers to pass through Meta’s authorization procedures to access the full data. However, in order to keep the data annonimization, we provide the dataset without ids and links of the comments. Please, contact <b>francielleavargas@usp.br</b> to request the corpus with ids and links of the comments. 
 </p>
 
 <h2 align="left"> CITING </h2>
