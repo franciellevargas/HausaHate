@@ -32,7 +32,7 @@
 </div>
 </br>
 
-What the following are the list of collaborators and authors this project:
+What the following is the list of collaborators and authors this project:
 
 
 </br>
