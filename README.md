@@ -82,8 +82,8 @@ Vargas, F., Guimarães, S., Muhammad, H. S., Alves, D., Ahmad, I. S., Abdulmumin
 
 <h2 align="left"> FUNDING </h2>
 
-![SSC-logo-300x171](https://github.com/franciellevargas/franciellevargas.github.io/blob/38268e9e159641a4361a00fe165e6d5d4d76a2d0/img/google-logo.png)
 ![SSC-logo-300x171](https://github.com/franciellevargas/franciellevargas.github.io/blob/8f353e83a7cd62aa435fb04e57be4afdafc1b43e/img/locus_media.png)
+![SSC-logo-300x171](https://github.com/franciellevargas/franciellevargas.github.io/blob/38268e9e159641a4361a00fe165e6d5d4d76a2d0/img/google-logo.png)
 
 
 
