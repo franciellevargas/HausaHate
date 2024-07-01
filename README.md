@@ -43,7 +43,7 @@ We followed the steps to anonymize the data described in Section 4.2.3 in the pa
 
 <h2 align="left"> CITING </h2>
 <p align="justify">
-Vargas, F., Guimarães, S., Muhammad, H. S., Alves, D., Ahmad, I. S., Abdulmumin, I., Mohamed, D., Pardo, T.A.S., Benevenuto, F. (2024). <b>HausaHate: An Expert Annotated Corpus for Hausa Hate Speech Detection</b>. Proceedings of the 8th Workshop on Online Abuse and Harms (WOAH 2024). pp.52--58. Mexico City, Mexico. https://aclanthology.org/2024.woah-1.5. 
+Vargas, F., Guimarães, S., Muhammad, H. S., Alves, D., Ahmad, I. S., Abdulmumin, I., Mohamed, D., Pardo, T.A.S., Benevenuto, F. (2024). <b>HausaHate: An Expert Annotated Corpus for Hausa Hate Speech Detection</b>. Proceedings of the 8th Workshop on Online Abuse and Harms (WOAH @NAACL 2024). pp.52--58. Mexico City, Mexico. https://aclanthology.org/2024.woah-1.5. 
 </p>
 
 <br>
