@@ -43,13 +43,39 @@ We followed the steps to anonymize the data described in Section 4.2.3 in the pa
 
 <h2 align="left"> CITING </h2>
 <p align="justify">
-Vargas, F., Guimarães, S., Muhammad, H. S., Alves, D., Ahmad, I. S., Abdulmumin, I., Mohamed, D., Pardo, T.A.S., Benevenuto, F. (2024). <b>HausaHate: An Expert Annotated Corpus for Hausa Hate Speech Detection</b>. Proceedings of the 8th Workshop on Online Abuse and Harms (WOAH 2024). pp.1--7. Mexico City, Mexico. Association for Computational Linguistics (ACL). 
+Vargas, F., Guimarães, S., Muhammad, H. S., Alves, D., Ahmad, I. S., Abdulmumin, I., Mohamed, D., Pardo, T.A.S., Benevenuto, F. (2024). <b>HausaHate: An Expert Annotated Corpus for Hausa Hate Speech Detection</b>. Proceedings of the 8th Workshop on Online Abuse and Harms (WOAH 2024). pp.52--58. Mexico City, Mexico. https://aclanthology.org/2024.woah-1.5. 
 </p>
 
 <br>
 
 <h2 align="left"> BIBTEX </h2>
 <p align="justify">
+ @inproceedings{vargas-etal-2024-hausahate,
+    title = "{H}ausa{H}ate: An Expert Annotated Corpus for {H}ausa Hate Speech Detection",
+    author = "Vargas, Francielle  and
+      Guimar{\~a}es, Samuel  and
+      Muhammad, Shamsuddeen Hassan  and
+      Alves, Diego  and
+      Ahmad, Ibrahim Said  and
+      Abdulmumin, Idris  and
+      Mohamed, Diallo  and
+      Pardo, Thiago  and
+      Benevenuto, Fabr{\'\i}cio",
+    editor = {Chung, Yi-Ling  and
+      Talat, Zeerak  and
+      Nozza, Debora  and
+      Plaza-del-Arco, Flor Miriam  and
+      R{\"o}ttger, Paul  and
+      Mostafazadeh Davani, Aida  and
+      Calabrese, Agostina},
+    booktitle = "Proceedings of the 8th Workshop on Online Abuse and Harms (WOAH 2024)",
+    month = jun,
+    year = "2024",
+    address = "Mexico City, Mexico",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.woah-1.5",
+    pages = "52--58",
+}
  </p> 
 <br>
 
