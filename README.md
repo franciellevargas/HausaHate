@@ -6,7 +6,7 @@
 
 </div>
 <h2 align="center"> 
- HausaHate: A Benchmarch Dataset for Hausa Hate Speech Detection
+ HausaHate: A Benchmark Dataset for Hausa Hate Speech Detection
 </h2>  
 
 </br>
