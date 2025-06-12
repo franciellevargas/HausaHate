@@ -41,15 +41,8 @@ What the following is the list of collaborators and authors this project:
 We followed the steps to anonymize the data described in Section 4.2.3 in the paper, as it is standard for papers with this kind of data. There is a public corpus of anonymized Facebook comments available. However, since the last change on the Meta platform terms of service was in 2020, we only decided to disclose the ids of the comments (only when requested) in order to allow the reproducibility, while also compelling researchers to pass through Meta’s authorization procedures to access the full data. Note that in order to keep the data anonymization, we publically provide the comments without their ids and links. Hence, please, contact <b>francielleavargas@usp.br</b> to request the corpus with ids and links of the comments.
 </p>
 
-<h2 align="left"> CITING </h2>
-<p align="justify">
-Vargas, F., Guimarães, S., Muhammad, H. S., Alves, D., Ahmad, I. S., Abdulmumin, I., Mohamed, D., Pardo, T.A.S., Benevenuto, F. (2024). <b>HausaHate: An Expert Annotated Corpus for Hausa Hate Speech Detection</b>. Proceedings of the 8th Workshop on Online Abuse and Harms (WOAH @ NAACL 2024). pp.52--58. Mexico City, Mexico. https://aclanthology.org/2024.woah-1.5. 
-</p>
-
-<br>
-
-<h2 align="left"> BIBTEX </h2>
-<p align="justify">
+Please cite our paper if you use our dataset:
+```bibtex
  @inproceedings{vargas-etal-2024-hausahate,
     title = "{H}ausa{H}ate: An Expert Annotated Corpus for {H}ausa Hate Speech Detection",
     author = "Vargas, Francielle  and
@@ -76,8 +69,7 @@ Vargas, F., Guimarães, S., Muhammad, H. S., Alves, D., Ahmad, I. S., Abdulmumin
     url = "https://aclanthology.org/2024.woah-1.5",
     pages = "52--58",
 }
- </p> 
-<br>
+```
 
 
 <h2 align="left"> FUNDING </h2>
