@@ -34,6 +34,19 @@
 
 What the following is the list of collaborators and authors this project:
 
+### Lead Authors
+- **Francielle Vargas** — University of São Paulo, Brazil
+- **Shamsuddeen H. Muhammad** — Imperial College London, UK
+
+### Researchers
+- **Ibrahim Said Ahmad** — Northeastern University, USA
+- **Diego Alves** — Saarland University, Germany
+- **Idris Abdulmumin** — University of Pretoria, South Africa
+- **Diallo Mohamed** — University of Saint Thomas Aquinas, Burkina Faso
+- **Samuel Guimarães** — Federal University of Minas Gerais, Brazil
+- **Fabrício Benevenuto** — Federal University of Minas Gerais, Brazil
+
+
 
 </br>
 <h2 align="left"> ETHICS STATEMENT </h2>
